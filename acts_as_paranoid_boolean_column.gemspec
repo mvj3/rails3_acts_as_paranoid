@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name                  = "acts_as_paranoid_boolean_column"
-  s.version               = "0.4.3"
+  s.version               = "0.4.4"
   s.platform              = Gem::Platform::RUBY
   s.authors               = ["Goncalo Silva", "Charles G.", "Rick Olson", 'mvj3']
   s.email                 = ["mvjome@gmail.com"]
